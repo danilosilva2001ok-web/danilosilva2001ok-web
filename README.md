@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 
 
 Eu sou Danilo Silva, sou uma programador Frond End, atualmente estou estudado e desevolvendo projetos com:
 <br>
@@ -10,6 +10,7 @@ Eu sou Danilo Silva, sou uma programador Frond End, atualmente estou estudado e 
 
 ### Rede Sociais 
 
-<img src="https://img.icons8.com/?size=100&id=48839&format=png&color=000000" alt="instragram-logo" width="30px" > 
-<img src="https://img.icons8.com/?size=100&id=z657ovoGgS2o&format=png&color=000000" width="30px" >
+<a href="https://www.instagram.com/danilo17_silva/"> <img src="https://img.icons8.com/?size=100&id=48839&format=png&color=000000" alt="instragram-logo" width="30px" > <a/>
+
+<a href="https://www.facebook.com/danilo.silva.348932/"> <img src="https://img.icons8.com/?size=100&id=z657ovoGgS2o&format=png&color=000000" width="30px" > <a/>
   
